@@ -20,9 +20,9 @@ Fonctionnalité :
 
 Utilisateurs : 
 admin : 
-Login : test 
+Login : test  
 Lot de passe :test
 
 Client :
-Login : TATA
+Login : TATA  
 Mot de passe : TATA
