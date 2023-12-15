@@ -21,7 +21,7 @@ Fonctionnalité :
 Utilisateurs :   
 admin : 
 Login : test  
-Lot de passe :test
+Lot de passe : test
 
 Client :  
 Login : TATA  
