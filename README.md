@@ -1,3 +1,3 @@
 Executer le docker-compose et importer la SQL si pas déjà fait par docker !
 
-Commande docker : > docker-compose up
+Commande docker : docker-compose up
